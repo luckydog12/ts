@@ -1,0 +1,1 @@
+!function(){"use strict";var o={name:"luckydog",age:22};console.log(o),console.log("hello11111"),console.log("hello world")}();
